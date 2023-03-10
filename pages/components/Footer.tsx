@@ -3,7 +3,7 @@ import React from 'react';
 function Footer() {
     return (
         <section>
-            copyright @ 2023
+            <p>&copy; 2023 SKB-TECH</p>
         </section>
     );
 }
